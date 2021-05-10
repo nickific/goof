@@ -19,3 +19,4 @@ updates:
     # set labels to pull requests triggered by dependabot
     labels:
       - "security"
+    versioning-strategy: auto
